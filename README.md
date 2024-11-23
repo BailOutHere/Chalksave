@@ -5,11 +5,17 @@ Chat-based chalk canvas saver and loader, based on the wonderful GDWeave by NotN
 # Basic usage
 Usage:
 /helpchalk - lists below commands
+
 /listchalk - lists chalk files
+
 /loadchalk <filename> - loads specific file
+
 /savechalk <canvas ID> <filename> - saves specified canvas with filename
 
 
+# CANVAS ID MAP
+
+If you wish to know the ID of a specific canvas, please refer to the below map.
 <p align="left">
   <img src="./MAP.png" alt="Canvas ID Map"/>
 </p>
