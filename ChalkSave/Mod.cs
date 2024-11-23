@@ -4,10 +4,8 @@ namespace ChalkImageDraw;
 
 
 public class Mod : IMod {
-    public Config Config;
 
     public Mod(IModInterface modInterface) {
-        this.Config = modInterface.ReadConfig<Config>();
         modInterface.Logger.Information("ChalkSave loaded!");
         modInterface.RegisterScriptMod(new InjectChalkCanvas());
         modInterface.RegisterScriptMod(new InjectPlayerData());

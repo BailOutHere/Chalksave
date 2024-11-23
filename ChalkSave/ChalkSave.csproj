@@ -26,5 +26,6 @@
         </ItemGroup>
 
         <Copy SourceFiles="@(_SourceFiles)" DestinationFolder="$(GDWeavePath)/mods/$(AssemblyName)" />
+        <Copy SourceFiles="$(OutDir)$(AssemblyName).dll" DestinationFolder="$(OutDir)/../../../Thunderstore/" />
     </Target>
 </Project>
