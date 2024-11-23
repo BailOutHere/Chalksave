@@ -1,0 +1,10 @@
+{
+  "Id": "ChalkSave",
+  "AssemblyPath": "ChalkSave.dll",
+  "Metadata": {
+    "Name": "Chalk Saving and Loading",
+    "Author": "BailOutHere",
+    "Version": "0.0.1",
+    "Description": "Chat-based chalk canvas saver and loader. /listchalk - lists chalk files, /loadchalk <filename> - loads specific file, /savechalk <canvas ID> <filename> - saves specified canvas with filename"
+  }
+}
