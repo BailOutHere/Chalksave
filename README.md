@@ -4,14 +4,18 @@ Chat-based chalk canvas saver and loader, based on the wonderful GDWeave by NotN
 
 # Basic usage
 Usage:
+
 /helpchalk - lists below commands
 
-/listchalk - lists chalk saves in the save directory (see ""Technical info - files"" for more info)
+/listchalk - lists chalk saves in the save directory (see "Technical info - files" for more info)
 
 /loadchalk \<filename> - loads specific file
 
 /savechalk \<canvas ID> \<filename> - saves specified canvas with filename
 
+<p align="left">
+  <img src="./chalk.gif" alt="Basic use"/>
+</p>
 
 # CANVAS ID MAP
 
@@ -20,12 +24,6 @@ If you wish to know the ID of a specific canvas, please refer to the below map.
   <img src="./MAP.png" alt="Canvas ID Map"/>
 </p>
 
-
-
-
-## Building
-
-To build the project, you need to set the `GDWeavePath` environment variable to your game install's GDWeave directory (e.g. `G:\games\steam\steamapps\common\WEBFISHING\GDWeave`). This can also be done in Rider with `File | Settings | Build, Execution, Deployment | Toolset and Build | MSBuild global properties` or with a .user file in Visual Studio.
 
 # Technical info - files
 

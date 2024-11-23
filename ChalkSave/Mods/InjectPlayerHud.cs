@@ -91,7 +91,7 @@ public class InjectPlayerHud : IScriptMod
                 yield return new Token(TokenType.Newline, 4);
 
                 //  "/helpchalk":
-                yield return new ConstantToken(new StringVariant("/chalkhelp"));
+                yield return new ConstantToken(new StringVariant("/helpchalk"));
                 yield return new Token(TokenType.Colon);
                 yield return new Token(TokenType.Newline, 5);
                 // Network._update_chat("Usage: /listchalk - lists chalk files, /loadchalk <filename> - loads specific file, /savechalk <canvas ID> <filename> - saves specified canvas with filename")
