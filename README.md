@@ -10,7 +10,9 @@ Usage:
 /savechalk <canvas ID> <filename> - saves specified canvas with filename
 
 
-
+<p align="left">
+  <img src="./MAP.jpg" alt="Canvas ID Map"/>
+</p>
 
 
 
