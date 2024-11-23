@@ -14,14 +14,14 @@ Usage:
 /savechalk \<canvas ID> \<filename> - saves specified canvas with filename
 
 <p align="left">
-  <img src="./chalk.gif" alt="Basic use"/>
+  <img src="https://github.com/BailOutHere/Chalksave/blob/17209d8c7189d91e556fd19316a1ea54d619a4a3/chalk.gif?raw=true" alt="Basic use"/>
 </p>
 
 # CANVAS ID MAP
 
 If you wish to know the ID of a specific canvas, please refer to the below map.
 <p align="left">
-  <img src="./MAP.png" alt="Canvas ID Map"/>
+  <img src="https://github.com/BailOutHere/Chalksave/blob/17209d8c7189d91e556fd19316a1ea54d619a4a3/MAP.png?raw=true" alt="Canvas ID Map"/>
 </p>
 
 
