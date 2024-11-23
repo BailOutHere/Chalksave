@@ -11,7 +11,7 @@ Usage:
 
 
 <p align="left">
-  <img src="./MAP.jpg" alt="Canvas ID Map"/>
+  <img src="./MAP.png" alt="Canvas ID Map"/>
 </p>
 
 
